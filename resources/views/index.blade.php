@@ -3,7 +3,9 @@
 @section('content')
    
    
-   
+   <h2>salom
+    git
+   </h2>
    <!-- slider section -->
     <section class="slider_section ">
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
